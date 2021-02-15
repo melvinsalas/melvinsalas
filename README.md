@@ -10,7 +10,7 @@
 
 - 🏠 Software Engineer at cecropiasolutions.com
 - 👨🏻‍🏫 Professor at Universidad Cenfotec
-- 📝 Trying to write on [myblog](https://www.melvinsalas.com)
+- 🎙 Trying to make a [podcast](https://www.melvinsalas.com/podcast)
 - 👨🏻‍💻 Freelancer
 
 ## Contact
