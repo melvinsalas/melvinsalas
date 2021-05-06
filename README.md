@@ -8,7 +8,7 @@
 
 ## What I'm working on
 
-- 🏠 Software Engineer at cecropiasolutions.com
+- 🏠 Software Engineer at Wizeline
 - 👨🏻‍🏫 Professor at Universidad Cenfotec
 - 🎙 Trying to make a [podcast](https://www.melvinsalas.com/podcast)
 - 👨🏻‍💻 Freelancer
