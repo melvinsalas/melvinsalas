@@ -2,7 +2,7 @@
 
 ## Quick Facts
 
-- 🇨🇷 Live in San José, Costa Rica
+- 🇮🇪 Live in Dublin, Ireland
 - 🎓 Universidad Cenfotec graduated
 - 🎯 I'm engage on mobile development (currently using Flutter)
 
