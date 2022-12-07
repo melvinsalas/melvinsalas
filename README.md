@@ -2,13 +2,13 @@
 
 ## Quick Facts
 
-- 🇮🇪 Live in Dublin, Ireland
+- 🇨🇷 Live in San José, Costa Rica
 - 🎓 Universidad Cenfotec graduated
 - 🎯 I'm engage on mobile development (currently using Flutter)
 
 ## What I'm working on
 
-- 🏠 Software Engineer at Wizeline
+- 🏠 Software Engineer at CreateThrive
 - 👨🏻‍🏫 Professor at Universidad Cenfotec
 - 🎙 Trying to make a [podcast](https://www.melvinsalas.com/podcast)
 - 👨🏻‍💻 Freelancer
