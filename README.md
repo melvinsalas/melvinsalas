@@ -1,19 +1,22 @@
-### Hi there 👋
+### Yo, what’s up? 👾  
 
-## Quick Facts
+I’m **Melvin**, a **Flutter wizard 🪄** crafting dope mobile apps with buttery-smooth UIs.  
 
-- 🇨🇷 Live in San José, Costa Rica
-- 🎓 Universidad Cenfotec graduated
-- 🎯 I'm engage on mobile development (currently using Flutter)
+## 🌍 About Me  
 
-## What I'm working on
+- 📍 **Based in Barcelona, Spain**  
+- 🎓 **Universidad Cenfotec** grad  
+- 💙 Flutter isn’t just a framework—it’s a lifestyle 😎  
 
-- 🏠 Software Engineer at CreateThrive
-- 👨🏻‍🏫 Professor at Universidad Cenfotec
-- 🎙 Trying to make a [podcast](https://www.melvinsalas.com/podcast)
-- 👨🏻‍💻 Freelancer
+## 💻 What I’m Cooking  
 
-## Contact
+- 🏢 **Software Engineer** at [SCHUNK Intec S.L.U.](https://schunk.com)  
+- ✍️ Sharing random thoughts on **[melvinsalas.com](https://www.melvinsalas.com)** (not tech-related, just vibes)  
+- 👨🏻‍💻 Freelancing like a boss  
 
-- 💬 Ask me about mobile development
-- 📫 You can reach me on [twitter](https://twitter.com/melvinsalas)
+## 📬 Slide Into My Inbox  
+
+- 💬 Hit me up for **Flutter talk, app ideas, or just vibes**  
+- 📧 **hello@melvinsalas.com**  
+
+✨ *Coding, vibing, and writing whatever comes to mind!*  
